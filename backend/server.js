@@ -19,6 +19,7 @@ console.log(PORT,"PORT")
 const allowedOrigins = [
     
     // 'http://localhost:5173'
+
     'https://mern-product-sell.vercel.app'
 
 ]
